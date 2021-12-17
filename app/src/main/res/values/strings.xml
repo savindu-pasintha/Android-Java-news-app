@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WORLD TOP NEW</string>
+    <string name="name">WORLD TOP NEWS</string>
+
+    <!-- For admob whatsapp status add unit -->
+    <string name="adMobAppId">ca-app-pub-3899407775352437~9517551387</string>
+    <string name="adMobUnitIdTest">ca-app-pub-3899407775352437/8926524445</string>
+    <string name="adMobUnitIdTestSample">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
